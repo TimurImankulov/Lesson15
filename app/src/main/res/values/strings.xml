@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson15</string>
+    <string name="ed1_hint">Введите название сайта</string>
+    <string name="btnWeb_name">Перейти на сайт</string>
+    <string name="ed2_hint">Введите номер телефона</string>
+    <string name="btnPhone_name">Позвонить</string>
+</resources>
